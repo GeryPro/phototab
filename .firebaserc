@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "phototag-a80d9": {
+      "hosting": {
+        "app": [
+          "phototag-a80d9"
+        ]
+      }
+    }
+  }
+}
